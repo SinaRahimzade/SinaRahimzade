@@ -1,6 +1,4 @@
 # 👋 Hi, I’m Sina Rahimzade
-<img src="https://github.com/sinarahimzade/sinarahimzade/blob/main/header.png" alt="banner that says sina rahimzade - Quantitative developer">
-<br/>  
 
 # 📚 About Me
 i'm a quantitative developer, my main focus is on developing quantitative trading strategies and building trading platforms. i'm interested in mathematics, time series analysis, machine learning, and data science. i'm currently studying at the khaje nasir university at tehran.
