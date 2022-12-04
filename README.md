@@ -2,11 +2,11 @@
 <img src="https://github.com/sinarahimzade/sinarahimzade/blob/main/header.png" alt="banner that says sina rahimzade - Quantitative developer">
 <br/>  
 
-## 📚 About Me
+# 📚 About Me
 i'm a quantitative developer, my main focus is on developing quantitative trading strategies and building trading platforms. i'm interested in mathematics, time series analysis, machine learning, and data science. i'm currently studying at the khaje nasir university at tehran.
 i'm also a member of delta trading group, a quantitative trading group in iran. 
 
-## Tools and Technologies
+# Tools and Technologies
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 ![Julia](https://img.shields.io/badge/-Julia-9558B2?style=for-the-badge&logo=julia&logoColor=white)
 ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
