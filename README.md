@@ -24,6 +24,9 @@ i'm also a member of delta trading group, a quantitative trading group in iran.
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
 
+# Github Stats
+![SinaRahimzade's GitHub stats](https://github-readme-stats.vercel.app/api?username=SinaRahimzade&show_icons=true&theme=radical)
+
 
 # Spotify
 <div align="center"><img src=https://spotify-github-profile.vercel.app/api/view.svg?uid=31z57ukjki7rtpa225yhyv47d2bi&redirect=true][https://spotify-github-profile.vercel.app/api/view.svg?uid=31z57ukjki7rtpa225yhyv47d2bi&cover_image=true&theme=natemoo-re&show_offline=false&background_color=121212&bar_color=53b14f&bar_color_cover=true/></div>  
