@@ -1,8 +1,7 @@
-# 👋 Hi, I’m Sina Rahimzade
+**Hi, I’m Sina Rahimzade 👋**
 
 # 📚 About Me
-i'm a quantitative developer, my main focus is on developing quantitative trading strategies and building trading platforms. i'm interested in mathematics, time series analysis, machine learning, and data science. i'm currently studying at the khaje nasir university at tehran.
-i'm also a member of delta trading group, a quantitative trading group in iran. 
+i'm a quantitative developer, my main focus is on developing quantitative trading strategies and building trading platforms. i'm interested in mathematics, time series analysis, machine learning, and data science. i'm a member of delta trading group, a quantitative trading group in iran. 
 
 # Tools and Technologies
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
@@ -23,6 +22,12 @@ i'm also a member of delta trading group, a quantitative trading group in iran.
 ![Jupyter](https://img.shields.io/badge/Jupyter-%23F37626.svg?style=for-the-badge&logo=Jupyter&logoColor=white)
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
+
+# Socials
+
+[![Instagram](https://img.shields.io/badge/-Instagram-E4405F?style=for-the-badge&logo=Instagram&logoColor=white)](https://www.instagram.com/rahimzadesina/)
+[![Telegram](https://img.shields.io/badge/-Telegram-2CA5E0?style=for-the-badge&logo=Telegram&logoColor=white)](https://t.me/Sinooom)
+
 
 # Github Stats
 ![SinaRahimzade's GitHub stats](https://github-readme-stats.vercel.app/api?username=SinaRahimzade&show_icons=true&theme=radical)
