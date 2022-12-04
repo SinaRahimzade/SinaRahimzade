@@ -1,5 +1,5 @@
 
-# 📚 About Me
+# About Me
 **Hi, I’m Sina Rahimzade 👋**, i'm a quantitative developer, my main focus is on developing quantitative trading strategies and building trading platforms. i'm interested in mathematics, time series analysis, machine learning, and data science. i'm a member of delta trading group, a quantitative trading group in iran. 
 
 # Tools and Technologies
